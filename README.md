@@ -1,6 +1,10 @@
 # soittorasia
 soittorasia raspberry pico:lla
 
+https://youtu.be/f_KXpYhqz18
+
+https://koodinkutoja.com/tehdaan-hirvittava-soittorasia/
+
 
 Raspberry Pico:lla tehty soittorasia projekti.
    - servomoottorilla ohjataan sivulla olevaa vetoavainta
@@ -21,8 +25,6 @@ https://orangefreesounds.com/winding-...
 (Artist: Alexander)
 
 
-https://youtu.be/f_KXpYhqz18
 
-https://koodinkutoja.com/tehdaan-hirvittava-soittorasia/
 
 
